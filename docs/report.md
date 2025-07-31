@@ -39,7 +39,3 @@ This project demonstrates the feasibility of implementing a simplified visual sa
 
 ---
 
-Author: Haoran Wang  
-Institution: University of Jinan  
-Course: Signals and Systems  
-Date: June 2017
