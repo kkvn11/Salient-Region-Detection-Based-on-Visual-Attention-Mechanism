@@ -54,6 +54,3 @@ Detailed explanation can be found in [docs/report.md](docs/report.md).
 
 ---
 
-> Author: Haoran Wang  
-> Course: Signals and Systems  
-> University: University of Jinan (2017)
